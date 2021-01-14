@@ -25,6 +25,7 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'twentytwentyone' ); ?></a>
 
+	<h1>This is my new code change!</h1>
 	<?php get_template_part( 'template-parts/header/site-header' ); ?>
 
 	<div id="content" class="site-content">
